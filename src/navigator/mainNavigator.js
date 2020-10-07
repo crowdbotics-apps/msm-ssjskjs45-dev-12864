@@ -7,7 +7,7 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 
 /**
- * new navigators can be imported here
+ * new navigators can be importded here
  */
 
 const AppNavigator = {
